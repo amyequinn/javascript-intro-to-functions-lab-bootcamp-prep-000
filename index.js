@@ -19,4 +19,3 @@ function sayHiToGrandma(string){
     var lowerCawse = string.toLowerCase();
     return ('I can\'t hear you!');
   }
-  
